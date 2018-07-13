@@ -19,8 +19,8 @@ let username = "Marvin"
 // If "username" is defined, console.log(`Hello, ${username}`)
 // Otherwise, console.log("You must provide a username");
 
-if (typeof username !== str)
-console.log("Hello," + console.log(username) + "!")
+if (typeof username !== string )
+{console.log("Hello," + console.log(username) + "!")}
 else{console.log("You must provide a username")}
 
 // HINT: you can check if a variable is defined by using it
